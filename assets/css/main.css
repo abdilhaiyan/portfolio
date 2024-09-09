@@ -780,8 +780,9 @@ input, select, textarea {
 		display: flex;
 		cursor: default;
 		list-style: none;
-		margin-left: -1rem;
+		margin-left: 0rem;
 		padding-left: 0;
+		margin-bottom: auto;
 	}
 
 		ul.actions li {
